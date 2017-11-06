@@ -417,9 +417,14 @@ FNR = {
 color = rgb { 130 15 25 }
 color_ui = rgb { 143 17 28 }
 }
-
-
-
+TUN = {
+color = rgb { 210 40 40 }
+color_ui = rgb { 226 107 107 }
+}
+BOS = {
+color = rgb { 40 196 118 }
+color_ui = rgb { 28 132 80 }
+}
 
 
 D01 = {
